@@ -2,7 +2,7 @@
 
 ### Rutgers Shipping Classification
 1. Check [this shipping classification flow chart](https://ipo.rutgers.edu/rehs/flow-chart-for-classification) to determine which type of specimen you are seeking to import.
-2. For help, ### contact biosafety@rutgers.edu.
+2. For help, contact biosafety@rutgers.edu.
 3. Most corals we work with are considered "Exempt Animal Specimens".
 4. They require appropriate labeling and packaging.
 5. To see if the specimen you wish you import is exempt, check this [checklist for "Exempt Animal Specimens"](https://ipo.rutgers.edu/rehs/checklist-exempt-specimens).
