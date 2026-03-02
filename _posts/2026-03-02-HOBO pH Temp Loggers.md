@@ -48,6 +48,8 @@
       D3. Off Water Detect: Bluetooth activates when the logger is out of water.
 2. Save the settings to the logger.
 
+## Deployment, Data Retrieval, Maintenance, Specs
+
 ### Deployment
 1. Remove the closure cap.
 2. If biofouling is a concern, attach the anti-biofouling copper guard by aligning its holes with those on the sensor end cap and pH electrode.
@@ -55,7 +57,7 @@
 
 *Note: The logger is waterproof up to 40 meters and suitable for both freshwater and saltwater environments.*
 
-### Data Retriev
+### Data Retrieval
 1. Retrieve the logger from the deployment site.
 2. If Bluetooth was set to "Always Off" or "Off Water Detect," activate it by pressing the switch on the logger or removing it from the water, respectively.
 3. Open the HOBOconnect app and connect to the logger.
