@@ -4,40 +4,40 @@ Based on [“Preparation of Artificial Seawater"](https://aslopubs.onlinelibrary
 
 
 ## Materials 
-*Gloves
-*Lab Coat
-*Safety Glasses 
-*10 L Carboy with spigot 
-*Access to D.I. water
-*Scale
-*Weight boats
-*Spatula
-*1500 ml Flask
-*500 ml Flask
-*100 ml Flask
-*4 Stir bars
-*1-2 Stir plates
+1. Gloves
+2. Lab Coat
+3. Safety Glasses 
+4. 10 L Carboy with spigot 
+5. Access to D.I. water
+6. Scale
+7. Weight boats
+8. Spatula
+9. 1500 ml Flask
+10. 500 ml Flask
+11. 100 ml Flask
+12. 4 Stir bars
+13. 1-2 Stir plates
 
 
 ## Salts
 ### Solution 1: Gravimetric salts (Amounts of preparation of 7 L of ASW)
-5 L of D.I water
-167.48g Sodium chloride (NaCl)
-28.06 g Sodium sulfate (Na<sub>2</sub>SO<sub>4</sub>)
-4.74 g Potassium chloride (KCl)
-1.37 g Sodium bicarbonate (NaHCO<sub>3</sub>)
-0.69 g Potassium bromide (KBr)
-0.18 g Boric acid (H<sub>3</sub>BO<sub>3</sub>)
-0.02 g Sodium fluoride (NaF)
+1. 5 L of D.I water
+2. 167.48g Sodium chloride (NaCl)
+3. 28.06 g Sodium sulfate (Na<sub>2</sub>SO<sub>4</sub>)
+4. 4.74 g Potassium chloride (KCl)
+5. 1.37 g Sodium bicarbonate (NaHCO<sub>3</sub>)
+6. 0.69 g Potassium bromide (KBr)
+6. 0.18 g Boric acid (H<sub>3</sub>BO<sub>3</sub>)
+8. 0.02 g Sodium fluoride (NaF)
 
 ### Solution 2: Volumetric salts (Amounts to prepare at least double of each individual solution)
 *Check if these are already made first*
-203.31 g Magnesium chloride (MgCl<sub>2</sub>.6H<sub>2</sub>O)
-    1000 ml of D.I. Water
-29.4 g Calcium chloride (CaCl<sub>2</sub>.2H<sub>2</sub>O)
-    200 ml of D.I. Water
-1.6 g Strontium chloride (SrCl<sub>2</sub>.6H<sub>2</sub>O)
-    60 ml of D.I. Water
+1. 203.31 g Magnesium chloride (MgCl<sub>2</sub>.6H<sub>2</sub>O)
+    A. 1000 ml of D.I. Water
+2. 29.4 g Calcium chloride (CaCl<sub>2</sub>.2H<sub>2</sub>O)
+    A. 200 ml of D.I. Water
+3. 1.6 g Strontium chloride (SrCl<sub>2</sub>.6H<sub>2</sub>O)
+    A. 60 ml of D.I. Water
 
 
 ## Method
