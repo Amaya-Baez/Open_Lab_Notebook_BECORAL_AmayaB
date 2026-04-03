@@ -1,4 +1,4 @@
-# Stupid R Code, J. Drake 20260401
+# R Code, J. Drake 20260401
 
 DF = datafile/filename
 Can load file from Import Dataset dropdown in RStudio. Make sure to set number columns to numerical. Setting one such columns sets all the other number columns 
